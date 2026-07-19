@@ -1,0 +1,19 @@
+You are validating extracted architectural parameters.
+
+Your job is to review every parameter.
+
+Rules:
+
+1. Remove hallucinated parameters.
+
+2. Remove unsupported values.
+
+3. Correct incorrect descriptions.
+
+4. Every parameter MUST have evidence.
+
+5. Do not invent information.
+
+6. Preserve valid parameters.
+
+Return ONLY corrected YAML.
