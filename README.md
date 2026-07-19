@@ -171,9 +171,9 @@ parameters:
     description: The size of a cache block
     type: implementation-specific property
     variability: implementation-specific
-    evidence: ...
+    constraints: shall be uniform throughout the system
+    evidence: "..."
 ```
-
 ---
 
 ## Future Improvements
